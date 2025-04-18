@@ -1307,6 +1307,70 @@
     "FogCount": 0,
     "Weight": 100
   },
+    "MapTheViridianWildWood": {
+    "Name": "The Viridian WildWood",
+    "IDs": [
+      "MapUniqueTheViridianWildWood"
+    ],
+    "ShortestId": "MapUniqueTheViridianWildWood",
+    "Biomes": [
+      "Forest",
+      "",
+      ""
+    ],
+    "NameColor": "255, 255, 255, 255",
+    "BackgroundColor": "220, 0, 0, 0",
+    "NodeColor": "200, 155, 155, 155",
+    "DrawLine": false,
+    "Highlight": true,
+    "Count": 0,
+    "LockedCount": 0,
+    "FogCount": 0,
+    "Weight": 100
+  },
+      "MapTheSilentCave: {
+    "Name": "The Silent Cave",
+    "IDs": [
+      "MapUniqueThe Silent Cave"
+    ],
+    "ShortestId": "MapUniqueTheSilentCave",
+    "Biomes": [
+      "Forest",
+      "",
+      ""
+    ],
+    "NameColor": "255, 255, 255, 255",
+    "BackgroundColor": "220, 0, 0, 0",
+    "NodeColor": "200, 155, 155, 155",
+    "DrawLine": false,
+    "Highlight": true,
+    "Count": 0,
+    "LockedCount": 0,
+    "FogCount": 0,
+    "Weight": 100
+  },
+  "MapAzmerianRanges": {
+    "Name": "Azmerian Ranges",
+    "IDs": [
+      "MapUniqueAzmerianRanges"
+    ],
+    "ShortestId": "MapUniqueAzmerianRanges",
+    "Biomes": [
+      "Forest",
+      "",
+      ""
+    ],
+    "NameColor": "255, 255, 255, 255",
+    "BackgroundColor": "220, 0, 0, 0",
+    "NodeColor": "200, 155, 155, 155",
+    "DrawLine": false,
+    "Highlight": true,
+    "Count": 0,
+    "LockedCount": 0,
+    "FogCount": 0,
+    "Weight": 100
+  },
+  
   "MapVaalCity": {
     "Name": "Vaal City",
     "IDs": [
